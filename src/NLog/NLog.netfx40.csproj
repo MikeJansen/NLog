@@ -359,6 +359,7 @@
     <Compile Include="Targets\Wrappers\ImpersonatingTargetWrapper.cs" />
     <Compile Include="Targets\Wrappers\LogOnProviderType.cs" />
     <Compile Include="Targets\Wrappers\PostFilteringTargetWrapper.cs" />
+    <Compile Include="Targets\Wrappers\QueuedTargetWrapper.cs" />
     <Compile Include="Targets\Wrappers\RandomizeGroupTarget.cs" />
     <Compile Include="Targets\Wrappers\RepeatingTargetWrapper.cs" />
     <Compile Include="Targets\Wrappers\RetryingTargetWrapper.cs" />
